@@ -1,4 +1,4 @@
-# 🌎2️⃣ E2 PROP2CSV
+# 🌎2️⃣ E2 Prop2Csv Tool
 Earth2.io - Properties to CSV exporter 👽 tool
 
 Usage: 
