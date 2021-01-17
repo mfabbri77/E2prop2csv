@@ -10,7 +10,7 @@ The <user_id> is the string at the end the web url of your **PUBLIC** profile pa
 
 In my case it's: **30e02c8d-3305-43b8-8b3e-2ff741c378e4**
 
-DO NOT INSERT YOUR E2 PASSWORD IN SCRIPTS, PROGRAMS OR WEBPAGES!!!
+**DO NOT INSERT YOUR E2 PASSWORD IN SCRIPTS, PROGRAMS OR WEBPAGES!!!**
 
 
 Example:
