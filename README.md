@@ -5,8 +5,8 @@
 
 Install requests and pandas modules:
 
-pip install requests
-pip install pandas
+ - pip install requests
+ - pip install pandas
 
 **Usage:**
 
